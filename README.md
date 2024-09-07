@@ -1,7 +1,7 @@
 # Olive-Store-Analysis
-1. List of KPI’s
+# 1. List of KPI’s
    
-   •	The analysis of payment statistics based on weekday vs. weekend provides an understanding of the buying behavior of customers. and can also help Olist to improve their weekend sales and plan promotions accordingly.
+•	The analysis of payment statistics based on weekday vs. weekend provides an understanding of the buying behavior of customers. and can also help Olist to improve their weekend sales and plan promotions accordingly.
    
 •	This KPI analyzes the Number of Orders with review score 5 and payment type as credit card provides an understanding customer satisfaction levels and payment preferences. Olist can use this information to identify satisfied customers and encourage them to make repeat purchases.
 
