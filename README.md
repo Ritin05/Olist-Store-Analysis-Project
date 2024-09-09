@@ -1,4 +1,4 @@
-# Olist-Store-Analysis Project
+# Olist-Store-Analysis-Project
 # 1. List of KPI’s
    
 •	The analysis of payment statistics based on weekday vs. weekend provides an understanding of the buying behavior of customers. and can also help Olist to improve their weekend sales and plan promotions accordingly.
