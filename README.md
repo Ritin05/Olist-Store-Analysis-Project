@@ -11,4 +11,15 @@
 
 •	The analysis of relationship between shipping days and review scores. It helps in understanding the impact of delivery time on customer satisfaction levels. Olist can use this information to optimize their logistics and improve their delivery time.
 
+# Excel Dashboard
+![Excel Dashboard](https://github.com/user-attachments/assets/30db6ae0-506f-480b-9f86-de86804fcf92)
+
+# Power BI Dashboard
+![Power BI Dashboard](https://github.com/user-attachments/assets/b7b30e8f-d23f-4747-a0bb-d187c97931d8)
+
+# Tableau Dashboard
+![Tableau Dashboard](https://github.com/user-attachments/assets/c3b3b0cf-ad71-4ca1-8064-9255f8bbb5d8)
+
+
+
 
