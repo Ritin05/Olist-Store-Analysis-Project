@@ -21,19 +21,17 @@
 ![Tableau Dashboard](https://github.com/user-attachments/assets/c3b3b0cf-ad71-4ca1-8064-9255f8bbb5d8)
 
 # SQL Work 
+# KPI 1 No Of Customer,State,City
 ![KPI 1](https://github.com/user-attachments/assets/a2533b5b-2f7d-4e42-92c3-6879e8229b4b)
+# KPI 2 Weekday Vs Weekend (order_purchase_timestamp) Payment Statistics
 ![KPI 2](https://github.com/user-attachments/assets/2651a4a8-cc84-4ecd-8e29-e6ad3a6e1cf1)
+# KPI 3 Number of Orders with review score 5 and payment type as credit card.
 ![KPI 3](https://github.com/user-attachments/assets/902f9a05-da56-49fb-9997-5e0dddc314ad)
+# KPI 4 Average number of days taken for order_delivered_customer_date for pet_shop
 ![KPI 4](https://github.com/user-attachments/assets/dbacd36f-ead6-4c7c-ba9e-8a893b743985)
+# KPI 5 Average price and payment values from customers of sao paulo city
 ![KPI 5](https://github.com/user-attachments/assets/afc04c2d-7fdb-481d-9c0a-90ad98f52e39)
+# KPI 6 Relationship between shipping days (order_delivered_customer_date - order_purchase_timestamp) Vs review scores.
 ![KPI 6](https://github.com/user-attachments/assets/4a28936d-aad8-4a66-abf7-503dc40c5bce)
-
-
-
-
-
-
-
-
 
 
