@@ -18,7 +18,7 @@
 ![Power BI Dashboard](https://github.com/user-attachments/assets/b7b30e8f-d23f-4747-a0bb-d187c97931d8)
 
 # Tableau Dashboard
-![Tableau Dashboard](https://github.com/user-attachments/assets/c3b3b0cf-ad71-4ca1-8064-9255f8bbb5d8)
+![Tableau Dashboard](https://github.com/user-attachments/assets/fe9e2e4a-42de-4170-b379-fa3b25601f4a)
 
 # SQL Work 
 # KPI 1 No Of Customer,State,City
